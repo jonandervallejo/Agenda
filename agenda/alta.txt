@@ -1,2 +1,0 @@
-amigo,amigo1,amigo1@correo,66666,16/01/1998,fantasma
-contactopro,contacto1,contacto1@correo,77777,16/01/1998,nombreEmpresa
